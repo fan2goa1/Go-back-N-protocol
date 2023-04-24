@@ -1,5 +1,6 @@
 # CN-Lab-Go-back-N-protocol
 BIT 2023 Spring Computer Network Programming Project 1
+
 本项目为BIT20级计算机网络第一次编程作业。实现了在电脑上通过两个终端分别运行host.exe完成全双工通信。当然，因为时间问题还有一些细节没有完善，比如传输的文件的类型多元化等等。
 
 ## 项目构成
